@@ -1,0 +1,6 @@
+@Sazanowine.API_HostAddress = http://localhost:5151
+
+GET {{Sazanowine.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
